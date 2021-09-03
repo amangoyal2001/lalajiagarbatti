@@ -813,7 +813,7 @@ nav {
 }
 .navbar-default .navbar-right {
 	font-family: 'Exo', sans-serif;
-	font-size: 12px;
+	font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
 	height: 100%;
@@ -1130,7 +1130,7 @@ nav {
     }
     .dropdown-menu > li > a {
         color: #CCC;
-        font-size: 12px;
+        font-size: 18px;
         font-weight: 400;
         text-transform: none;
         position: relative;
